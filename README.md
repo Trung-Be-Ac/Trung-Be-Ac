@@ -3,14 +3,14 @@
 ## 💼 Mình là:
 - 🧑‍💻 Lập trình viên Java & Spring Boot
 - 🎨 Có kinh nghiệm với HTML/CSS/JS/Bootstrap
-- 🛠 Đang học thêm về Python, React
+- 🛠 Đang học thêm về ReactJS
 
 ## 🌱 Hiện tại đang học:
-- ReactJS, TailwindCSS
-- Docker, Git nâng cao
+- ReactJS, 
+-  Git nâng cao
 
 ## 📫 Liên hệ:
-- Email: trungdev@example.com
+- Email: trungbac0123@gmail.com
 - LinkedIn: [linkedin.com/in/trungdev](https://linkedin.com/in/trungdev)
 - Website cá nhân: [trungdev.com](https://trungdev.com)
 
