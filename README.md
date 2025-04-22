@@ -3,7 +3,7 @@
 ## 💼 Mình là:
 - 🧑‍💻 Lập trình viên Java & Spring Boot
 - 🎨 Có kinh nghiệm với HTML/CSS/JS/Bootstrap
-- 🛠 Đang học thêm về C#, WinForms
+- 🛠 Đang học thêm về Python, React
 
 ## 🌱 Hiện tại đang học:
 - ReactJS, TailwindCSS
