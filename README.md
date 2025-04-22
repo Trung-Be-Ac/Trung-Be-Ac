@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Xin chào, mình là Trung
 
-<!--
-**Trung-Be-Ac/Trung-Be-Ac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Mình là:
+- 🧑‍💻 Lập trình viên Java & Spring Boot
+- 🎨 Có kinh nghiệm với HTML/CSS/JS/Bootstrap
+- 🛠 Đang học thêm về C#, WinForms
 
-Here are some ideas to get you started:
+## 🌱 Hiện tại đang học:
+- ReactJS, TailwindCSS
+- Docker, Git nâng cao
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Liên hệ:
+- Email: trungdev@example.com
+- LinkedIn: [linkedin.com/in/trungdev](https://linkedin.com/in/trungdev)
+- Website cá nhân: [trungdev.com](https://trungdev.com)
+
+---
+
+⭐ Nếu bạn thấy profile mình thú vị, hãy cho mình 1 ⭐ nhé!
