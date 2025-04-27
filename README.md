@@ -11,8 +11,6 @@
 
 ## 📫 Liên hệ:
 - Email: trungbac0123@gmail.com
-- LinkedIn: [linkedin.com/in/trungdev](https://linkedin.com/in/trungdev)
-- Website cá nhân: [trungdev.com](https://trungdev.com)
 
 ---
 
