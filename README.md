@@ -4,11 +4,11 @@
 
 🎨 Experienced with HTML/CSS/JS/Bootstrap
 
-🛠 Currently learning ReactJS
+🛠 Currently learning ReactJS,NodeJS
 
 🌱 Currently studying:
 ReactJS
-
+NodeJS
 Advanced Git
 
 📫 Contact:
