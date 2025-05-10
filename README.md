@@ -1,17 +1,17 @@
-# 👋 Xin chào, mình là Trung
+👋 Hello, I'm Trung
+💼 I am:
+🧑‍💻 A Java & Spring Boot Developer
 
-## 💼 Mình là:
-- 🧑‍💻 Lập trình viên Java & Spring Boot
-- 🎨 Có kinh nghiệm với HTML/CSS/JS/Bootstrap
-- 🛠 Đang học thêm về ReactJS
+🎨 Experienced with HTML/CSS/JS/Bootstrap
 
-## 🌱 Hiện tại đang học:
-- ReactJS, 
--  Git nâng cao
+🛠 Currently learning ReactJS
 
-## 📫 Liên hệ:
-- Email: trungbac0123@gmail.com
+🌱 Currently studying:
+ReactJS
 
----
+Advanced Git
 
-⭐ Nếu bạn thấy profile mình thú vị, hãy cho mình 1 ⭐ nhé!
+📫 Contact:
+Email: trungbac0123@gmail.com
+
+⭐ If you find my profile interesting, feel free to give me a ⭐!
