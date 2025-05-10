@@ -1,6 +1,6 @@
 👋 Hello, I'm Trung
 💼 I am:
-🧑‍💻 A Java & Spring Boot Developer
+🧑‍💻 A Java & Spring Boot Web Developer
 
 🎨 Experienced with HTML/CSS/JS/Bootstrap
 
