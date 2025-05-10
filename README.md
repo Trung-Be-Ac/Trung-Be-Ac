@@ -2,9 +2,9 @@
 💼 I am:
 🧑‍💻 A Java & Spring Boot Web Developer
 
-🎨 Experienced with HTML/CSS/JS/Bootstrap
+🎨 Experienced with HTML/CSS/Bootstrap/Java
 
-🛠 Currently learning ReactJS,NodeJS
+🛠 Currently learning ReactJS,NodeJS,Java
 
 🌱 Currently studying:
 ReactJS
